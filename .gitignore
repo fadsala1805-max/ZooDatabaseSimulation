@@ -1,0 +1,12 @@
+# SQL Server database files — never commit binaries
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.bacpac
+*.dacpac
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.swp
