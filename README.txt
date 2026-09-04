@@ -1,7 +1,3 @@
-
-ZOO DATABASE:
-
-
 A small relational database (Microsoft SQL Server) modeling a network of zoos:
 the animals they hold, the staff they employ, and conservation data about each
 species. It ships with a schema, sample data, and a set of 20 analytical
